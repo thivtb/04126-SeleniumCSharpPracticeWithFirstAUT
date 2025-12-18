@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\tests\\bookmarksimagestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:tests\\bookmarksimagestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\tests\\userprofilenavigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:tests\\userprofilenavigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\tests\\updateusernametest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:tests\\updateusernametest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\configs\\testdata.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:configs\\testdata.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\tests\\removephotofromcollectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:tests\\removephotofromcollectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\tests\\downloadphototest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:tests\\downloadphototest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\configs\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:configs\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\helpers\\unplashapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:helpers\\unplashapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\photodetailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\photodetailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\viewprofilemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\viewprofilemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\createcollectionmodalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\createcollectionmodalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\addimagestocollectionmodalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\addimagestocollectionmodalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\04126_unplashselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:04126_unplashselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\collectionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\collectionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\bookmarkspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\bookmarkspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ThiVoThiBe\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\04126_selenium c# practice with first aut\\04126_unplashselenium\\pages\\myprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141CC4C-093C-DD97-E587-1211597BE651}|04126_UnplashSelenium.csproj|solutionrelative:pages\\myprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ApiHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\ApiHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserNameTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\UpdateUserNameTest.cs",
+              "RelativeDocumentMoniker": "Tests\\UpdateUserNameTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\UpdateUserNameTest.cs",
+              "RelativeToolTip": "Tests\\UpdateUserNameTest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:03:15.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData.json",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Configs\\TestData.json",
+              "RelativeDocumentMoniker": "Configs\\TestData.json",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Configs\\TestData.json",
+              "RelativeToolTip": "Configs\\TestData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T17:50:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileNavigationTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\UserProfileNavigationTest.cs",
+              "RelativeDocumentMoniker": "Tests\\UserProfileNavigationTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\UserProfileNavigationTest.cs",
+              "RelativeToolTip": "Tests\\UserProfileNavigationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:56:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookMarksImagesTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\BookMarksImagesTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BookMarksImagesTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\BookMarksImagesTest.cs",
+              "RelativeToolTip": "Tests\\BookMarksImagesTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:56:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemovePhotoFromCollectionTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\RemovePhotoFromCollectionTest.cs",
+              "RelativeDocumentMoniker": "Tests\\RemovePhotoFromCollectionTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\RemovePhotoFromCollectionTest.cs",
+              "RelativeToolTip": "Tests\\RemovePhotoFromCollectionTest.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:32:20.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DownloadPhotoTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\DownloadPhotoTest.cs",
+              "RelativeDocumentMoniker": "Tests\\DownloadPhotoTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\DownloadPhotoTest.cs",
+              "RelativeToolTip": "Tests\\DownloadPhotoTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:07:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:56:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Configs\\TestSettings.cs",
+              "RelativeDocumentMoniker": "Configs\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Configs\\TestSettings.cs",
+              "RelativeToolTip": "Configs\\TestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:51:43.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnplashAPIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Helpers\\UnplashAPIHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\UnplashAPIHelper.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Helpers\\UnplashAPIHelper.cs",
+              "RelativeToolTip": "Helpers\\UnplashAPIHelper.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:38:52.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\HomePage.cs",
+              "RelativeToolTip": "Pages\\HomePage.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:00:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhotoDetailPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\PhotoDetailPage.cs",
+              "RelativeDocumentMoniker": "Pages\\PhotoDetailPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\PhotoDetailPage.cs",
+              "RelativeToolTip": "Pages\\PhotoDetailPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:05:46.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewProfileModal.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ViewProfileModal.cs",
+              "RelativeDocumentMoniker": "Pages\\ViewProfileModal.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ViewProfileModal.cs",
+              "RelativeToolTip": "Pages\\ViewProfileModal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:20:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ProfilePage.cs",
+              "RelativeDocumentMoniker": "Pages\\ProfilePage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ProfilePage.cs",
+              "RelativeToolTip": "Pages\\ProfilePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:50:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCollectionModalPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\CreateCollectionModalPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CreateCollectionModalPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\CreateCollectionModalPage.cs",
+              "RelativeToolTip": "Pages\\CreateCollectionModalPage.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:52:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\BasePage.cs",
+              "RelativeToolTip": "Pages\\BasePage.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:52:29.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddImagesToCollectionModalPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\AddImagesToCollectionModalPage.cs",
+              "RelativeDocumentMoniker": "Pages\\AddImagesToCollectionModalPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\AddImagesToCollectionModalPage.cs",
+              "RelativeToolTip": "Pages\\AddImagesToCollectionModalPage.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAnwIUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:46:05.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "04126_UnplashSelenium.csproj",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
+              "RelativeDocumentMoniker": "04126_UnplashSelenium.csproj",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
+              "RelativeToolTip": "04126_UnplashSelenium.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T15:34:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:14:45.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "Pages\\ApiHelper.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\ApiHelper.cs",
+              "RelativeToolTip": "Pages\\ApiHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:06:50.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollectionsPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\CollectionsPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CollectionsPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\CollectionsPage.cs",
+              "RelativeToolTip": "Pages\\CollectionsPage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:05:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookmarksPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\BookmarksPage.cs",
+              "RelativeDocumentMoniker": "Pages\\BookmarksPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\BookmarksPage.cs",
+              "RelativeToolTip": "Pages\\BookmarksPage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:39:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\build\\net8.0\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:25:58.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\MyProfilePage.cs",
+              "RelativeDocumentMoniker": "Pages\\MyProfilePage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\Pages\\MyProfilePage.cs",
+              "RelativeToolTip": "Pages\\MyProfilePage.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:22:39.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
