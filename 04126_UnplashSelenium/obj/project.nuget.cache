@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJi07AlBYs8=",
+  "dgSpecHash": "8XRv5BG8df8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
+  "projectFilePath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126-SeleniumCSharpPracticeWithFirstAUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThiVoThiBe\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ThiVoThiBe\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

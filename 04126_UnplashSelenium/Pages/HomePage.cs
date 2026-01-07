@@ -146,7 +146,7 @@ namespace _04126_UnplashSelenium.Pages
         }
 
 
-        public void HoverAndBookmarkImages(int count)
+        public void HoverAndLikeImages(int count)
         {
             for (int i = 0; i < count; i++)
             {
@@ -174,7 +174,7 @@ namespace _04126_UnplashSelenium.Pages
             }
         }
 
-        public void ClickBookmarkNavIcon()
+        public void ClickLikeNavIcon()
         {
             WaitAndFindElement(bookmarkNavbar).Click();
         }

@@ -59,12 +59,19 @@ public class RemovePhotoFromCollectionTest : BaseTest
 
         // Delete collection by API
         await Task.Delay(2000);
-        var apiHelper = new UnplashAPIHelper(settings.UnsplashAccessToken);
-        bool deleted = await apiHelper.DeleteCollectionByTitle(
-            settings.UnsplashUsername, 
-            collectionName, settings.UnsplashApiBaseUrl
+        var collectionApi = new CollectionApiHelper(
+            settings.UnsplashAccessToken,
+            settings.UnsplashApiBaseUrl
         );
-        Assert.That(deleted, Is.True, $"Failed to delete collection '{collectionName}' via API");
+
+        bool deleted = await collectionApi.DeleteCollectionByTitle(
+            settings.UnsplashUsername,
+            collectionName
+        );
+
+        Assert.That(deleted, Is.True,
+            $"Failed to delete collection '{collectionName}' via API");
+
         Console.WriteLine($"Successfully cleaned up test collection: {collectionName}");
     }
 }

@@ -1682,11 +1682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
+      "projectUniqueName": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126-SeleniumCSharpPracticeWithFirstAUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
       "projectName": "04126_UnplashSelenium",
-      "projectPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
+      "projectPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126-SeleniumCSharpPracticeWithFirstAUT\\04126_UnplashSelenium\\04126_UnplashSelenium.csproj",
       "packagesPath": "C:\\Users\\ThiVoThiBe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126_Selenium C# Practice with First AUT\\04126_UnplashSelenium\\obj\\",
+      "outputPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\04126-SeleniumCSharpPracticeWithFirstAUT\\04126_UnplashSelenium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ThiVoThiBe\\AppData\\Roaming\\NuGet\\NuGet.Config",

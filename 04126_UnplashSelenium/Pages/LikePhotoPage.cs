@@ -6,9 +6,9 @@ using System.Text;
 
 namespace _04126_UnplashSelenium.Pages
 {
-    internal class BookmarksPage : BasePage
+    internal class LikePhotoPage : BasePage
     {
-        public BookmarksPage(IWebDriver driver, WebDriverWait wait) : base(driver, wait) { }
+        public LikePhotoPage(IWebDriver driver, WebDriverWait wait) : base(driver, wait) { }
 
         By imageCountText = By.XPath("//span[normalize-space()='3 images']");
         By images = By.CssSelector("figure[itemprop='image']");
@@ -35,7 +35,7 @@ namespace _04126_UnplashSelenium.Pages
             string text = imageCountTxt.Text;
         }
 
-        public int GetBookmarkedImagesCount()
+        public int GetLikedImagesCount()
         {
             WaitAndFindElement(images);
             return driver.FindElements(images).Count;
@@ -46,7 +46,7 @@ namespace _04126_UnplashSelenium.Pages
             WaitAndFindElement(clearButton).Click();
         }
 
-        public void ConfirmClearBookmarks()
+        public void ConfirmClearImages()
         {
             WaitAndFindElement(clearBookmarksButton).Click();
 
